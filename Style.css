@@ -1,0 +1,12 @@
+.img {
+
+    width: 600px;
+    height: 400px;
+
+}
+
+.body {
+
+    justify-content: center;
+    background-color: #eee;
+}
